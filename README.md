@@ -51,6 +51,7 @@
 | 上海      | 研发 | 阿里 | SLS团队      | 大数据/算法/前端         | [网站](https://mp.weixin.qq.com/s?__biz=MzI0MjAxNjk0OA==&mid=2247491183&idx=2&sn=842336aa35d118d882881a837d02bc28&chksm=e903e9b4de7460a276edc3512e47cc0f924eb857653b0c3778e9a445952f36df918594b28746&mpshare=1&scene=23&srcid=0217EZNTUFrNxyod1gN4ljWZ&sharer_sharetime=1676878976821&sharer_shareid=00f26868f94db3cab0185b7a04361a54#rd) |
 | 上海      | 算法 | 百度 | 商业研发部模型团队                 | 算法           | [网站](https://mp.weixin.qq.com/s/7Tw2Id6u0L3SVBPY-D6N9g) |
 | 上海      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
+| 上海      | 算法 | 米哈游 | 米哈游             | 算法           | [图片](Image/米哈游.jpeg) |
 | 杭州      | 开发 | 字节 | Data-架构团队            | 推荐平台开发       | [网站](https://jobs.bytedance.com/campus/position/7193954760595851580/detail?spread=B3RU5SF) |
 | 杭州      | 算法 | 字节 | Data-电商部门            | 算法              | [网站](https://jobs.bytedance.com/campus/position/7139763870227532045/detail?spread=B3RU5SF) |
 | 杭州      | 开发 | 字节 | 国际电商数据产品          | 前端开发              | [网站](https://jobs.bytedance.com/campus/position/7109669125181442311/detail?spread=B3RU5SF) |
@@ -88,6 +89,8 @@
 | 南京      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 | 南京      | 研发 | 阿里 | 洛神云                   | 研发           | [文本](Text/阿里云洛神云.md) |
 | 南京      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
+| 南京      | 开发 | 华为 | 数据通信产品线             | 开发           | [图片](Image/华为数据通信.jpeg) |
+| 苏州      | 开发 | 华为 | 数据通信产品线             | 开发           | [图片](Image/华为数据通信.jpeg) |
 | 合肥      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 
 
@@ -109,6 +112,7 @@
 | 深圳      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 | 深圳      | 算法 | IDEA | 粤港澳大湾区数字经济研究院       | 计算机视觉        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495019&idx=2&sn=82d4a88887d5f66fae622a85885c078b&chksm=cfb645daf8c1cccc9fe0d7ab9ff4773439c4e044459599ff5c6871be2f7a5a6cb6152b6ba929&scene=21#wechat_redirect) |
 | 深圳      | 算法 | 华为 | AI基础理论组       | 算法        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495371&idx=2&sn=792b3418b1929a3e83ef07255394147e&chksm=cfb6467af8c1cf6c5d4af599f37b3bd2a683ca034bdfb61d31e80985250fd94a31c6d1b6553b&scene=21#wechat_redirect) |
+| 深圳      | 算法 | 平安 | 平安科技       | NLP&多模态        | [网站](https://mp.weixin.qq.com/s/KKDtBfoPVa_dQf7BpOOAZw) |
 | 深圳      | 算法 | OPPO | AI-ISP算法团队       | 影像算法        | [图片](Image/OPPO-AI影像.jpg)    |
 | 广州      | 开发 | 字节 | UGC游戏                 | 客户端开发         | [网站](https://jobs.bytedance.com/campus/position/7176611747662432571/detail?spread=B3RU5SF) |
 | 广州      | 开发 | 字节 | 飞书                    | 测试开发           | [网站](https://jobs.bytedance.com/campus/position/7129812416577374501/detail?spread=B3RU5SF) |
