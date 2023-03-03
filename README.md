@@ -12,7 +12,20 @@
 
 # 地区链接
 
-[华东地区](#华东地区)	[华南地区](#华南地区)	[华北地区](#华北地区)	[华西地区](#华西地区)
+[华东地区](#华东地区)	[华南地区](#华南地区)	[华北地区](#华北地区)	[华西地区](#华西地区)	[华中地区](#华中地区) 
+
+
+
+# 企业实习总入口
+| 公司 | 链接 |
+| ------ | ------ |
+| 蚂蚁 | [链接](https://mp.weixin.qq.com/s/TSEEhlAhk0nmFnNf8lis_A) |
+| 拼多多 | [链接](https://careers.pinduoduo.com/campus/intern?t=TgbiYFZ0gK) |
+| PayPal | [链接](https://mp.weixin.qq.com/s/skYVlO52eoqOQKlMvjM8OA) |
+| 腾讯 | [链接](https://mp.weixin.qq.com/s/nds8NkIbWfTArLS5_l5Htw) |
+| 百度 | [图片](Image/百度.png) |
+
+
 
 
 # 华东地区
@@ -49,9 +62,11 @@
 | 上海      | 算法 | 浦江实验室 | 浦江实验室                 | NLP         | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495108&idx=2&sn=475801056f1f5cb14e1f45730d4876c2&chksm=cfb64575f8c1cc63014b02c5c9c679fc55c7163150f084f3bf89ae5e417bfa6b9d33fe61f7eb&scene=21#wechat_redirect) |
 | 上海      | 算法 | 商汤研究院 | 基础视觉组                 | 自动驾驶        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495229&idx=2&sn=c84bcfcf1fe94c89ebdfce73a60f227e&chksm=cfb6468cf8c1cf9af4b36ba2e05939de06d34b677d45f13a0c0d7f7334925e423d1f7b15b7c9&scene=21#wechat_redirect) |
 | 上海      | 研发 | 阿里 | SLS团队      | 大数据/算法/前端         | [网站](https://mp.weixin.qq.com/s?__biz=MzI0MjAxNjk0OA==&mid=2247491183&idx=2&sn=842336aa35d118d882881a837d02bc28&chksm=e903e9b4de7460a276edc3512e47cc0f924eb857653b0c3778e9a445952f36df918594b28746&mpshare=1&scene=23&srcid=0217EZNTUFrNxyod1gN4ljWZ&sharer_sharetime=1676878976821&sharer_shareid=00f26868f94db3cab0185b7a04361a54#rd) |
+| 上海      | 算法 | 蚂蚁 | 大安全机器智能部              | 算法           | [网站](https://zhuanlan.zhihu.com/p/608855660?utm_campaign=shareopn&utm_medium=social&utm_oi=906601392410595328&utm_psn=1612862198992269314&utm_source=wechat_session) |
 | 上海      | 算法 | 百度 | 商业研发部模型团队                 | 算法           | [网站](https://mp.weixin.qq.com/s/7Tw2Id6u0L3SVBPY-D6N9g) |
 | 上海      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
 | 上海      | 算法 | 米哈游 | 米哈游             | 算法           | [图片](Image/米哈游.jpeg) |
+| 上海      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
 | 杭州      | 开发 | 字节 | Data-架构团队            | 推荐平台开发       | [网站](https://jobs.bytedance.com/campus/position/7193954760595851580/detail?spread=B3RU5SF) |
 | 杭州      | 算法 | 字节 | Data-电商部门            | 算法              | [网站](https://jobs.bytedance.com/campus/position/7139763870227532045/detail?spread=B3RU5SF) |
 | 杭州      | 开发 | 字节 | 国际电商数据产品          | 前端开发              | [网站](https://jobs.bytedance.com/campus/position/7109669125181442311/detail?spread=B3RU5SF) |
@@ -81,17 +96,21 @@
 | 杭州      | 研发 | 阿里 | 基础产品事业部      | 研发/算法         | [文本](Text/阿里云基础产品事业部.md) |
 | 杭州      | 研发 | 阿里 | 表格存储      | 大数据         | [文本](Text/阿里表格存储.md) |
 | 杭州      | 研发 | 阿里 | SLS团队      | 大数据/算法/前端         | [网站](https://mp.weixin.qq.com/s?__biz=MzI0MjAxNjk0OA==&mid=2247491183&idx=2&sn=842336aa35d118d882881a837d02bc28&chksm=e903e9b4de7460a276edc3512e47cc0f924eb857653b0c3778e9a445952f36df918594b28746&mpshare=1&scene=23&srcid=0217EZNTUFrNxyod1gN4ljWZ&sharer_sharetime=1676878976821&sharer_shareid=00f26868f94db3cab0185b7a04361a54#rd) |
+| 杭州      | 研发 | 阿里 | 阿里云智能事业群      | 前端/算法/后端         | [文本](Text/阿里云智能事业群.md) |
 | 杭州      | 开发 | 阿里 | 智能存储团队基因方向             | 生物交叉           | [图片](Image/阿里-智能存储.jpg) |
 | 杭州      | 研发 | 阿里 | 电力和能源行业算法研发团队      |  交叉         | [文本](Text/阿里云电力和能源行业算法研发团队.md) |
-| 杭州      | 算法 | 网易 | 网易伏羲              | 算法           | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494766&idx=2&sn=6fb431a3adb3df520ce5377c1be5e808&chksm=cfb644dff8c1cdc9f44140896a2fe68ef00415a0c791a0c3bf6c51485af854f75416687f1ff8&scene=21#wechat_redirect) |
+| 杭州      | 研发 | 阿里 | 电力和能源行业算法研发团队      |  交叉         | [文本](Text/阿里云电力和能源行业算法研发团队.md) |
+| 杭州      | 算法 | 蚂蚁 | 大安全机器智能部              | 算法           | [网站](https://zhuanlan.zhihu.com/p/608855660?utm_campaign=shareopn&utm_medium=social&utm_oi=906601392410595328&utm_psn=1612862198992269314&utm_source=wechat_session) |
 | 杭州      | 算法 | 快手 | 社区科学线-商业化算法部 | 广告算法              | [图片](Image/快手-广告算法-实习.jpg)                        |
 | 南京      | 安全 | 字节 | 云原生方向                | 安全             | [网站](https://jobs.bytedance.com/campus/position/7122365040842082574/detail?spread=B3RU5SF) |
 | 南京      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 | 南京      | 研发 | 阿里 | 洛神云                   | 研发           | [文本](Text/阿里云洛神云.md) |
 | 南京      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
 | 南京      | 开发 | 华为 | 数据通信产品线             | 开发           | [图片](Image/华为数据通信.jpeg) |
+| 南京      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
 | 苏州      | 开发 | 华为 | 数据通信产品线             | 开发           | [图片](Image/华为数据通信.jpeg) |
-| 合肥      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
+| 合肥      | 算法 | 华为 | 诺亚方舟实验室                 | 算法      | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
+| 合肥      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
 
 
 # 华南地区
@@ -100,6 +119,8 @@
 
 | 城市      | 方向 | 公司 | 部门                    | 招聘岗位 | 具体信息                             |
 | --------- | -- | ---- | ----------------------- | ------ | ------------------------------------ |
+| 深圳     | 产品 | 腾讯 | IEG游戏安全              | 数值策划          | [文本](Text/腾讯IEG游戏安全.md) |
+| 深圳     | 算法 | 腾讯 | TEG              | 大模型          | [文本](Text/腾讯TEG.md) |
 | 深圳     | 开发 | 字节 | 飞书品质建设              | 服务端开发          | [网站](https://jobs.bytedance.com/campus/position/7124141948752316708/detail?spread=B3RU5SF) |
 | 深圳     | 算法 | 字节 | AI Lab                  | 框架研发          | [网站](https://jobs.bytedance.com/campus/position/7108568945091954951/detail?spread=B3RU5SF) |
 | 深圳     | 开发 | 字节 | 国际化直播               | 数据开发          | [网站](https://jobs.bytedance.com/campus/position/7148412505092688165/detail?spread=B3RU5SF) |
@@ -114,6 +135,7 @@
 | 深圳      | 算法 | 华为 | AI基础理论组       | 算法        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495371&idx=2&sn=792b3418b1929a3e83ef07255394147e&chksm=cfb6467af8c1cf6c5d4af599f37b3bd2a683ca034bdfb61d31e80985250fd94a31c6d1b6553b&scene=21#wechat_redirect) |
 | 深圳      | 算法 | 平安 | 平安科技       | NLP&多模态        | [网站](https://mp.weixin.qq.com/s/KKDtBfoPVa_dQf7BpOOAZw) |
 | 深圳      | 算法 | OPPO | AI-ISP算法团队       | 影像算法        | [图片](Image/OPPO-AI影像.jpg)    |
+| 深圳      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
 | 广州      | 开发 | 字节 | UGC游戏                 | 客户端开发         | [网站](https://jobs.bytedance.com/campus/position/7176611747662432571/detail?spread=B3RU5SF) |
 | 广州      | 开发 | 字节 | 飞书                    | 测试开发           | [网站](https://jobs.bytedance.com/campus/position/7129812416577374501/detail?spread=B3RU5SF) |
 | 广州      | 算法 | 中国电信 | 研究院                    | 算法          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495656&idx=2&sn=6796cdcb7f33100603b44da75b2d9ec2&chksm=cfb64759f8c1ce4f2dfd7e9994b8b3875117d480fbcb3c78fcb58a2a4eda2d9c1595e487cfc0&scene=21#wechat_redirect) |
@@ -188,6 +210,7 @@
 | 北京      | 算法 | 百度 | 搜索策略部                 | 搜索排序           | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495352&idx=2&sn=97ef2288dd5feca4ea9da9070b096e53&chksm=cfb64609f8c1cf1f0cbe110ee0a5e76a29fde3cb66758f62650cc956cc2298c71d5f86774d02&scene=21#wechat_redirect) |
 | 北京      | 算法 | 百度 | 自然语言处理部                 | NLP&机器学习           | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495516&idx=2&sn=b3572f84e5fb46e5fa6485b72496ac76&chksm=cfb647edf8c1cefb45ed559ccb089b25592ceae43b10bb825c20bba5431f712ce748a97d9502&scene=21#wechat_redirect) |
 | 北京      | 算法 | 百度 | 商业研发部模型团队                 | 算法           | [网站](https://mp.weixin.qq.com/s/7Tw2Id6u0L3SVBPY-D6N9g) |
+| 北京      | 算法 | 百度 | TPG算法中台                 | 算法           | [文本](Text/百度TPG.md) |
 | 北京      | 算法 | MSRA | 微软亚洲研究院              | 自然语言处理           | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494725&idx=2&sn=4715cef5da9a9796bf5ef122b96ddc2e&chksm=cfb644f4f8c1cde2b5e26d65867717c2626b590003dc71436e56ed1eb66eabb38db266c8fdb8&scene=21#wechat_redirect) |
 | 北京      | 算法 | MSRA | 科学智能中心              | 多模态          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495029&idx=2&sn=bd608ac6729ab79ce0c0c4749931ab56&chksm=cfb645c4f8c1ccd2fc95d35d81e3fb723bac7ffcd32e4b2efd53fb88ec9a4d0e30b96311dca5&scene=21#wechat_redirect) |
 | 北京      | 算法 | MSRA | 机器学习组              | 强化学习         | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495218&idx=2&sn=b07e741afa708cdf67e250a735d38ae7&chksm=cfb64683f8c1cf9541b73fd49cd08f69ba8d688419da0543fd5627deaeb5d8360676a807b908&scene=21#wechat_redirect) |
@@ -197,6 +220,7 @@
 | 北京      | 算法 | MSRA | Cloud Intelligence        | 大模型         | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495604&idx=2&sn=375a949a76c396f4bd976e371d25549e&chksm=cfb64705f8c1ce13f2a265949283dd414c935fe81aba63a070e4b6fb132b950b9c5b2b758eed&scene=21#wechat_redirect) |
 | 北京      | 算法 | MSRA | Cloud Intelligence        | 因果/时序         | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495531&idx=2&sn=c8588a43f96cee48d4c7cc47c8531c4d&chksm=cfb647daf8c1cecc4e43e634fe799c150d287cef74816d9e017e4a88c29b3a937c746d729194&scene=21#wechat_redirect) |
 | 北京      | 算法 | MSRA | STCA MSPH Intelligence TEAM    | 算法        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495634&idx=2&sn=32893621d5bc240813c0d215e317667f&chksm=cfb64763f8c1ce7528bf7115493a496d0a1caaaacb21b29695ca2260d56cd15356504130803c&scene=21#wechat_redirect) |
+| 北京      | 算法 | MSRA | 机器学习组    | 安全        | [网站](https://mp.weixin.qq.com/s/IMuTSLrajgMCCthG7_tSxw) |
 | 北京      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 | 北京      | 算法 | 快手 | 社区科学线-商业化算法部     | 广告算法          | [图片](Image/快手-广告算法-实习.jpg) |
 | 北京      | 算法 | 快手 | 多媒体内容理解             | NLP/多模态          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494827&idx=2&sn=6ecc6ef06a11a5c47c0c425849d55faf&chksm=cfb6441af8c1cd0c545cf8dfb32ac72eab7b41fca0707cdae11c4b689bc502556e25ccc1952e&scene=21#wechat_redirect) |
@@ -211,7 +235,10 @@
 | 北京      | 算法 | Momenta | Momenta              | 自动驾驶        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495574&idx=2&sn=2a204b8f5dfdcb0f1147694e105b8e2a&chksm=cfb64727f8c1ce3181b01bb16550cb9ffbe28844aef55bf685b94e0af887f12be2cce99aedb3&scene=21#wechat_redirect) |
 | 北京      | 算法 | 京东 | 广告数据与算法部              | 生成算法        | [网站](https://mp.weixin.qq.com/s/cLJ-d-rdwfithj-iYcqGMw) |
 | 北京      | 算法 | 京东 | 神机妙算平台              | 大数据        | [文本](Text/京东神机妙算平台.md) |
+| 北京      | 算法 | 京东 | 营销与商业化中心              | NLP        | [网站](https://mp.weixin.qq.com/s/Hrcvo6IJF1lp7o214ySFfA) |
 | 北京      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
+| 北京      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
+| 北京      | 算法 | 美团 | 未知       | CV        | [网站](https://mp.weixin.qq.com/s/S0MWfr_GpV1NkuJOKhCKBg)    |
 
 
 # 华西地区
@@ -226,3 +253,11 @@
 | 重庆      | 开发 | 字节 | 懂车帝                  | 后端开发           | [网站](https://jobs.bytedance.com/campus/position/7168403737411782949/detail?spread=B3RU5SF) |
 | 重庆      | 开发 | 字节 | 懂车帝                  | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7168403725902661925/detail?spread=B3RU5SF) |
 | 西安      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
+
+# 华中地区
+
+## 实习
+
+| 城市      | 方向 | 公司 | 部门                    | 招聘岗位  | 具体信息                             |
+| --------- | -- | ---- | ----------------------- | ------- | ------------------------------------ |
+| 武汉      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
