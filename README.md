@@ -19,6 +19,7 @@
 # 企业实习总入口
 | 公司 | 链接 |
 | ------ | ------ |
+| 字节 | [链接](https://jobs.bytedance.com/) |
 | 蚂蚁 | [链接](https://mp.weixin.qq.com/s/TSEEhlAhk0nmFnNf8lis_A) |
 | 拼多多 | [链接](https://careers.pinduoduo.com/campus/intern?t=TgbiYFZ0gK) |
 | PayPal | [链接](https://mp.weixin.qq.com/s/skYVlO52eoqOQKlMvjM8OA) |
