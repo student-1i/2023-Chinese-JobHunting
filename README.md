@@ -35,26 +35,6 @@
 
 | 城市      | 方向 | 公司 | 部门                    | 招聘岗位 | 具体信息                                                  |
 | ---          | ---     | ---     | --------------------   | ------         | --------------------------------------------------------|
-| 上海      | 开发 | 字节 | 经营平台                 | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7166277598761322783/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | AML                     | 计算机视觉         | [网站](https://jobs.bytedance.com/campus/position/7188014055093045564/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | AML                     | 自然语言处理       | [网站](https://jobs.bytedance.com/campus/position/7188015190683584826/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 技术中台                 | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7065567469805095175/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 商业变现                 | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/6805147423816550669/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 广告创意中心              | 前端开发          | [网站](https://jobs.bytedance.com/campus/position/6819848860560099592/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | 抖音长期生态              | 推荐算法          | [网站](https://jobs.bytedance.com/campus/position/7127654157125437704/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 飞书办公套件              | 测试开发          | [网站](https://jobs.bytedance.com/campus/position/7117518989152848159/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 未知                     | 网络研发          | [网站](https://jobs.bytedance.com/campus/position/6922335968834062599/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | 抖音信息                  | 推荐算法          | [网站](https://jobs.bytedance.com/campus/position/7148404293552441631/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 机器人方向                     | 后端开发          | [网站](https://jobs.bytedance.com/campus/position/7114231160692361508/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | 电商供应链                     | 算法          | [网站](https://jobs.bytedance.com/campus/position/7139763870227204365/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 飞书人力套件                   | 前端开发          | [网站](https://jobs.bytedance.com/campus/position/6959524408362027295/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | Data-电商部门                 | 算法          | [网站](https://jobs.bytedance.com/campus/position/7139763870227204365/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | TnS                          | 测试开发        | [网站](https://jobs.bytedance.com/campus/position/7147879500117870884/detail?spread=B3RU5SF) |
-| 上海      | 算法 | 字节 | 电商                          | 计算机视觉        | [网站](https://jobs.bytedance.com/campus/position/7139746150400067847/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 抖音                          | 前端开发         | [网站](https://jobs.bytedance.com/campus/position/6704488066368669963/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 抖音（跨平台）                 | 前端开发         | [网站](https://jobs.bytedance.com/campus/position/6982105126207719688/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 飞书业务中台                  | 前端开发         | [网站](https://jobs.bytedance.com/campus/position/7068615402696526111/detail?spread=B3RU5SF) |
-| 上海      | 开发 | 字节 | 大数据                        | 后端开发         | [网站](https://jobs.bytedance.com/campus/position/7084159963019020551/detail?spread=B3RU5SF) |
 | 上海      | 算法 | MSRA | 上海人工智能组                 | 计算机视觉         | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494996&idx=2&sn=96298305611388da57bcc9305c7c300e&chksm=cfb645e5f8c1ccf335cff5c996e8a013c5ba15e0a3c45d0e3dcab3356694c0f4e573ca4bf969&scene=21#wechat_redirect) |
 | 上海      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 | 上海      | 算法 | 小红书 | 基础模型团队                 | NLP         | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494854&idx=2&sn=382b5c8674070d1b3f21d3291cb74fe8&chksm=cfb64477f8c1cd61b46f387ddd0daf1290b79083208941b48fd850a055af83820cd6fd569be4&scene=21#wechat_redirect) |
@@ -68,24 +48,6 @@
 | 上海      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
 | 上海      | 算法 | 米哈游 | 米哈游             | 算法           | [图片](Image/米哈游.jpeg) |
 | 上海      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
-| 杭州      | 开发 | 字节 | Data-架构团队            | 推荐平台开发       | [网站](https://jobs.bytedance.com/campus/position/7193954760595851580/detail?spread=B3RU5SF) |
-| 杭州      | 算法 | 字节 | Data-电商部门            | 算法              | [网站](https://jobs.bytedance.com/campus/position/7139763870227532045/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 国际电商数据产品          | 前端开发              | [网站](https://jobs.bytedance.com/campus/position/7109669125181442311/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 飞书办公套件             | 测试开发              | [网站](https://jobs.bytedance.com/campus/position/7117517359510685966/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 电商商家与运营           | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7133073632264276231/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 国际电商数据产品         | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7109668246031583518/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 数字机器人              | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7130178668371380511/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 抖音电商平台治理         | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7148755602981390605/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 零代码/低代码平台        | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7142802194391140639/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 抖音直播                 | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7156941861503338783/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 抖音                    | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7166068634652297486/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 搜索业务                 | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7163533224152336671/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 数据机器人               | 全栈开发             | [网站](https://jobs.bytedance.com/campus/position/7130178172826208519/detail?spread=B3RU5SF) |
-| 杭州      | 算法 | 字节 | 电商                    | 计算机视觉             | [网站](https://jobs.bytedance.com/campus/position/7139746656723945742/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 商业化技术                | 大数据             | [网站](https://jobs.bytedance.com/campus/position/6923131409369188622/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 视频架构                  | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/6925716311843260680/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 飞书文档                  | 后端开发             | [网站](https://jobs.bytedance.com/campus/position/7067050069925185799/detail?spread=B3RU5SF) |
-| 杭州      | 开发 | 字节 | 多媒体                  | 架构开发             | [网站](https://jobs.bytedance.com/campus/position/7102342601500657956/detail?spread=B3RU5SF) |
 | 杭州      | 开发 | 阿里 | 洛神云                   | 开发           | [文本](Text/阿里云洛神云.md) |
 | 杭州      | 算法 | 阿里 | 搜索算法团队              | 算法           | [网站](https://mp.weixin.qq.com/s/5s9cdcqWlAjSspQbxPvM9Q) |
 | 杭州      | 算法 | 阿里 | 达摩院        | 算法          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494817&idx=2&sn=fe814384ba833754b0f6915117a5b97c&chksm=cfb64410f8c1cd065c2272b94ad72caf91aa0836e2fd296199e58c71aaa2e8e1e4e862cec44d&scene=21#wechat_redirect) |
@@ -122,23 +84,12 @@
 | --------- | -- | ---- | ----------------------- | ------ | ------------------------------------ |
 | 深圳     | 产品 | 腾讯 | IEG游戏安全              | 数值策划          | [文本](Text/腾讯IEG游戏安全.md) |
 | 深圳     | 算法 | 腾讯 | TEG              | 大模型          | [文本](Text/腾讯TEG.md) |
-| 深圳     | 开发 | 字节 | 飞书品质建设              | 服务端开发          | [网站](https://jobs.bytedance.com/campus/position/7124141948752316708/detail?spread=B3RU5SF) |
-| 深圳     | 算法 | 字节 | AI Lab                  | 框架研发          | [网站](https://jobs.bytedance.com/campus/position/7108568945091954951/detail?spread=B3RU5SF) |
-| 深圳     | 开发 | 字节 | 国际化直播               | 数据开发          | [网站](https://jobs.bytedance.com/campus/position/7148412505092688165/detail?spread=B3RU5SF) |
-| 深圳     | 算法 | 字节 | AI Lab                 | 系统开发          | [网站](https://jobs.bytedance.com/campus/position/7109007595821861157/detail?spread=B3RU5SF) |
-| 深圳     | 开发 | 字节 | 搜索业务                 | 后端开发          | [网站](https://jobs.bytedance.com/campus/position/7155803145800222983/detail?spread=B3RU5SF) |
-| 深圳     | 开发 | 字节 | 数据研发                 | 大数据           | [网站](https://jobs.bytedance.com/campus/position/7155803145800222983/detail?spread=B3RU5SF) |
-| 深圳     | 开发 | 字节 | 抖音直播                 | 后端开发           | [网站](https://jobs.bytedance.com/campus/position/7156946504963098893/detail?spread=B3RU5SF) |
-| 深圳     | 开发 | 字节 | 抖音开放平台              | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7164218327959062814/detail?spread=B3RU5SF) |
-| 深圳     | 开发 | 字节 | 抖音/西瓜视频/今日头条     | 大数据           | [网站](https://jobs.bytedance.com/campus/position/7111209936349284645/detail?spread=B3RU5SF) |
 | 深圳      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 | 深圳      | 算法 | IDEA | 粤港澳大湾区数字经济研究院       | 计算机视觉        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495019&idx=2&sn=82d4a88887d5f66fae622a85885c078b&chksm=cfb645daf8c1cccc9fe0d7ab9ff4773439c4e044459599ff5c6871be2f7a5a6cb6152b6ba929&scene=21#wechat_redirect) |
 | 深圳      | 算法 | 华为 | AI基础理论组       | 算法        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495371&idx=2&sn=792b3418b1929a3e83ef07255394147e&chksm=cfb6467af8c1cf6c5d4af599f37b3bd2a683ca034bdfb61d31e80985250fd94a31c6d1b6553b&scene=21#wechat_redirect) |
 | 深圳      | 算法 | 平安 | 平安科技       | NLP&多模态        | [网站](https://mp.weixin.qq.com/s/KKDtBfoPVa_dQf7BpOOAZw) |
 | 深圳      | 算法 | OPPO | AI-ISP算法团队       | 影像算法        | [图片](Image/OPPO-AI影像.jpg)    |
 | 深圳      | 研发 | 蔚来 | 春招&实习       | 研发        | [文本](Text/蔚来.md)    |
-| 广州      | 开发 | 字节 | UGC游戏                 | 客户端开发         | [网站](https://jobs.bytedance.com/campus/position/7176611747662432571/detail?spread=B3RU5SF) |
-| 广州      | 开发 | 字节 | 飞书                    | 测试开发           | [网站](https://jobs.bytedance.com/campus/position/7129812416577374501/detail?spread=B3RU5SF) |
 | 广州      | 算法 | 中国电信 | 研究院                    | 算法          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495656&idx=2&sn=6796cdcb7f33100603b44da75b2d9ec2&chksm=cfb64759f8c1ce4f2dfd7e9994b8b3875117d480fbcb3c78fcb58a2a4eda2d9c1595e487cfc0&scene=21#wechat_redirect) |
 | 广州      | 研发 | 阿里 | 电力和能源行业算法研发团队      |  交叉         | [文本](Text/阿里云电力和能源行业算法研发团队.md) |
 | 香港      | 算法 | 华为 | AI基础理论组       | 算法        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247495371&idx=2&sn=792b3418b1929a3e83ef07255394147e&chksm=cfb6467af8c1cf6c5d4af599f37b3bd2a683ca034bdfb61d31e80985250fd94a31c6d1b6553b&scene=21#wechat_redirect) |
@@ -151,49 +102,6 @@
 
 | 城市      | 方向 | 公司 | 部门                    | 招聘岗位 | 具体信息                             |
 | --------- | -- | ---- | ----------------------- | ------ | ------------------------------------ |
-| 北京      | 开发 | 字节 | 商业化                   | 后端开发          | [网站](https://jobs.bytedance.com/campus/position/7193563744487229755/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 懂车帝                   | 后端开发          | [网站](https://jobs.bytedance.com/campus/position/7168403725660588324/detail?spread=B3RU5SF) |
-| 北京      | 安全 | 字节 | 无                      | 隐私BP            | [网站](https://jobs.bytedance.com/campus/position/7186489650579622181/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 经营平台                 | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7166276065459357982/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 生活服务                 | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7020680878943160589/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 未知                    | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/6920591784393754888/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 电商                    | 后端开发           | [网站](https://jobs.bytedance.com/campus/position/7143978749116320013/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 技术中台                 | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/6932407387622738184/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 数据集成方向              | 大数据开发         | [网站](https://jobs.bytedance.com/campus/position/7129506642094655757/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 飞书零代码/低代码业务      | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7114570026385426719/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 机器人方向                | 前端开发          | [网站](https://jobs.bytedance.com/campus/position/7063395302280333598/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 飞书企业应用              | 测试开发          | [网站](https://jobs.bytedance.com/campus/position/7117513948837136648/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | 未知                    | 搜索广告            | [网站](https://jobs.bytedance.com/campus/position/7116830728360462628/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | 抖音电商联盟业务           | 推荐算法          | [网站](https://jobs.bytedance.com/campus/position/7145028104967915806/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | 未知                     | 数据挖掘          | [网站](https://jobs.bytedance.com/campus/position/7065211734156134664/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 飞书品质建设              | 服务端开发          | [网站](https://jobs.bytedance.com/campus/position/7124141948752316708/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 通信中台                 | 后端开发          | [网站](https://jobs.bytedance.com/campus/position/7136130350984874277/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 国际化社区               | 测试开发          | [网站](https://jobs.bytedance.com/campus/position/7140305368970905863/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 数据智能团队             | 全栈开发          | [网站](https://jobs.bytedance.com/campus/position/7027018925041387812/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | 未知                   | 数据挖掘          | [网站](https://jobs.bytedance.com/campus/position/7119733303288760607/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 未知                   | 平台开发          | [网站](https://jobs.bytedance.com/campus/position/7130884006328994062/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 国际化直播              | 大数据          | [网站](https://jobs.bytedance.com/campus/position/7130884006328994062/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | TnS                   | 测试开发        | [网站](https://jobs.bytedance.com/campus/position/7139736786570430727/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 抖音直播               | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7156939775679777054/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | AI Lab                | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7108577934155876615/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 数据流方向              | 数据清洗        | [网站](https://jobs.bytedance.com/campus/position/7153469457381624100/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | Ads Infra             | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7035891604875512077/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 剪映                   | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7106159600919120159/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | AML                    | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7153817020776794376/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 小荷健康                | 测试开发        | [网站](https://jobs.bytedance.com/campus/position/7161306138574932238/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 商业化                 | 客户端研发        | [网站](https://jobs.bytedance.com/campus/position/7165718296954702111/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | 抖音电商                 | 推荐算法        | [网站](https://jobs.bytedance.com/campus/position/7168846702392281357/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 懂车帝                   | 前端开发        | [网站](https://jobs.bytedance.com/campus/position/7168403602738055455/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | 机器学习中台-生物          | 算法        | [网站](https://jobs.bytedance.com/campus/position/7098162730335783181/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 飞书架构                 | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7086722502659852551/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 电商商家与运营            | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/7063006127235631391/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 今日头条                 | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/6800934909113731336/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 今日头条                 | 前端开发        | [网站](https://jobs.bytedance.com/campus/position/6961635759086733576/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 可视化（GIS）             | 前端开发        | [网站](https://jobs.bytedance.com/campus/position/7108564923986250020/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 广告                     | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/6944657393649977631/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 搜索业务                 | 后端开发        | [网站](https://jobs.bytedance.com/campus/position/6824778147201272078/detail?spread=B3RU5SF) |
-| 北京      | 开发 | 字节 | 生活服务                 | 前端开发        | [网站](https://jobs.bytedance.com/campus/position/7055185357855738149/detail?spread=B3RU5SF) |
-| 北京      | 算法 | 字节 | TikTok                 | 推荐算法        | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494952&idx=2&sn=a0365b73c17de284c31b3f1a78ece81f&chksm=cfb64599f8c1cc8f727d5a2302d1928da2e8e462db3547bab2495d8b8b7afa01c19780b7a489&scene=21#wechat_redirect) |
 | 北京      | 开发 | 阿里 | 洛神云                   | 开发           | [文本](Text/阿里云洛神云.md) |
 | 北京      | 算法 | 阿里 | 达摩院        | 算法          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494817&idx=2&sn=fe814384ba833754b0f6915117a5b97c&chksm=cfb64410f8c1cd065c2272b94ad72caf91aa0836e2fd296199e58c71aaa2e8e1e4e862cec44d&scene=21#wechat_redirect) |
 | 北京      | 算法 | 阿里 | AAIG        | 计算机视觉          | [网站](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NDU1OA==&mid=2247494983&idx=2&sn=7029b832b2dabe89baaffcbf4729ab8c&chksm=cfb645f6f8c1cce01c08b5f3517f401b80691b1eb06c1bf5fc6e3f9179ff6d2d56f2dc9932d2&scene=21#wechat_redirect) |
@@ -248,11 +156,8 @@
 
 | 城市      | 方向 | 公司 | 部门                    | 招聘岗位  | 具体信息                             |
 | --------- | -- | ---- | ----------------------- | ------- | ------------------------------------ |
-| 成都      | 算法 | 字节 | 抖音生活服务             | 推荐算法           | [网站](https://jobs.bytedance.com/campus/position/7166949052990540045/detail?spread=B3RU5SF) |
 | 成都      | 开发 | 阿里 | 智能存储团队基因方向             | 生物交叉           | [图片](Image/阿里-智能存储.jpg) |
 | 成都      | 全部 | 旷视 | 旷视             | 什么都有           | [图片](Image/旷视.jpg) |
-| 重庆      | 开发 | 字节 | 懂车帝                  | 后端开发           | [网站](https://jobs.bytedance.com/campus/position/7168403737411782949/detail?spread=B3RU5SF) |
-| 重庆      | 开发 | 字节 | 懂车帝                  | 前端开发           | [网站](https://jobs.bytedance.com/campus/position/7168403725902661925/detail?spread=B3RU5SF) |
 | 西安      | 算法 | 华为 | 诺亚方舟实验室                 | 算法         | [网站](https://mp.weixin.qq.com/s/DgOA81D2mp3XU4iWuWephw) |
 
 # 华中地区
